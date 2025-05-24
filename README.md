@@ -1,4 +1,4 @@
-# hema
+# Aquawatch - Phase 5
 This repository holds the prototype for AquaWatch, a smart aquaculture monitoring system based on AI and IoT. Features
 
 Artificial sensor readings (pH, Temperature, Dissolved Oxygen)
